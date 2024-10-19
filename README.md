@@ -1,4 +1,4 @@
-# 👋 Full-Stack Developer | Cloud Architect | Software Engineer
+# 👋 Full-Stack Developer | Software Engineer
 
 Hi! I’m a passionate **Full-Stack Developer** and **Software Engineer** with a strong focus on building scalable, cross-platform applications. I have expertise in **backend development**, **cloud infrastructure**, and **DevOps**, and I enjoy solving complex technical problems and optimizing processes for efficiency.
 
